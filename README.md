@@ -14,6 +14,8 @@ Desafio 2 do Curso Code Girls
 * Visualizar, editar e depurar o fluxo de trabalho da aplicação.
 * Me lembra muito um fluxograma de processos.
 
+![](step-functions-example)
+
 ## Tipos de fluxos de trabalho:
 
 ### Fluxos de trabalho padrão:
