@@ -13,6 +13,8 @@ Desafio 2 do Curso Code Girls
 * Gerencia estado e erros.
 * Visualizar, editar e depurar o fluxo de trabalho da aplicação.
 * Me lembra muito um fluxograma de processos.
+* Existem exemplos para ser explorados e utilizados.
+* Quando você cria o workflow, os serviços são criados automaticamente.
 
 ![](stepfunctionsexample.png)
 
