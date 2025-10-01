@@ -17,6 +17,7 @@ Desafio 2 do Curso Code Girls
 * Quando você cria o workflow, os serviços são criados automaticamente.
 
 ![Fonte: Documentação AWS](stepfunctionsexample.png)
+Fonte: Documentação AWS
 
 ## Tipos de fluxos de trabalho:
 
